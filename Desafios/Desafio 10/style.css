@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+header {
+    background-color: green;
+    color: white;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: green;
+    text-align: center;
+    color: white;
+}
